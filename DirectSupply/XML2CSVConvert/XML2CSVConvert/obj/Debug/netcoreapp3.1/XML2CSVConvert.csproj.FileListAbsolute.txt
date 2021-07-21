@@ -1,0 +1,14 @@
+C:\Users\hemachandra.ghanta\Desktop\DirectSupply\XML2CSVConvert\XML2CSVConvert\bin\Debug\netcoreapp3.1\XML2CSVConvert.exe
+C:\Users\hemachandra.ghanta\Desktop\DirectSupply\XML2CSVConvert\XML2CSVConvert\bin\Debug\netcoreapp3.1\XML2CSVConvert.deps.json
+C:\Users\hemachandra.ghanta\Desktop\DirectSupply\XML2CSVConvert\XML2CSVConvert\bin\Debug\netcoreapp3.1\XML2CSVConvert.runtimeconfig.json
+C:\Users\hemachandra.ghanta\Desktop\DirectSupply\XML2CSVConvert\XML2CSVConvert\bin\Debug\netcoreapp3.1\XML2CSVConvert.runtimeconfig.dev.json
+C:\Users\hemachandra.ghanta\Desktop\DirectSupply\XML2CSVConvert\XML2CSVConvert\bin\Debug\netcoreapp3.1\XML2CSVConvert.dll
+C:\Users\hemachandra.ghanta\Desktop\DirectSupply\XML2CSVConvert\XML2CSVConvert\bin\Debug\netcoreapp3.1\XML2CSVConvert.pdb
+C:\Users\hemachandra.ghanta\Desktop\DirectSupply\XML2CSVConvert\XML2CSVConvert\obj\Debug\netcoreapp3.1\XML2CSVConvert.csproj.AssemblyReference.cache
+C:\Users\hemachandra.ghanta\Desktop\DirectSupply\XML2CSVConvert\XML2CSVConvert\obj\Debug\netcoreapp3.1\XML2CSVConvert.AssemblyInfoInputs.cache
+C:\Users\hemachandra.ghanta\Desktop\DirectSupply\XML2CSVConvert\XML2CSVConvert\obj\Debug\netcoreapp3.1\XML2CSVConvert.AssemblyInfo.cs
+C:\Users\hemachandra.ghanta\Desktop\DirectSupply\XML2CSVConvert\XML2CSVConvert\obj\Debug\netcoreapp3.1\XML2CSVConvert.csproj.CoreCompileInputs.cache
+C:\Users\hemachandra.ghanta\Desktop\DirectSupply\XML2CSVConvert\XML2CSVConvert\obj\Debug\netcoreapp3.1\XML2CSVConvert.dll
+C:\Users\hemachandra.ghanta\Desktop\DirectSupply\XML2CSVConvert\XML2CSVConvert\obj\Debug\netcoreapp3.1\XML2CSVConvert.pdb
+C:\Users\hemachandra.ghanta\Desktop\DirectSupply\XML2CSVConvert\XML2CSVConvert\obj\Debug\netcoreapp3.1\XML2CSVConvert.genruntimeconfig.cache
+C:\Users\hemachandra.ghanta\Desktop\DirectSupply\XML2CSVConvert\XML2CSVConvert\bin\Debug\netcoreapp3.1\orders.xml
